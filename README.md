@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **BSC IN CSE**
 
-    My University Name: Bangladesh University of Business and Technology (BUBT)
-
 - 💬 Ask me about **C,c++,JS,DART & FLUTTER**
 
 - 📫 How to reach me **maharabhosen365@gmail.com**
