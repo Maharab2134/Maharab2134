@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **Iam funny**
 
--  My codeforces account link <p align="left"> <a href="https://codeforces.com/profile/Maharab123" target="blank">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@maharab121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maharab121" height="30" width="40" /></a>
