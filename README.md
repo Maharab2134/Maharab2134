@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BSC IN CSE**
 
-- I'm looking to codeforces on [Problem Solving in C++](https://codeforces.com/profile/Maharab123)
+- I'm looking to codeforces on [Problem Solving in C++]
 
 - 💬 Ask me about **C,C++,JS,DART & FLUTTER**
 
