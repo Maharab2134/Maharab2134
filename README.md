@@ -3,7 +3,7 @@
 <img align="right" alt="Coding"width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharab2134&label=Profile%20views&color=0e75b6&style=flat" alt="maharab2134" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@MaharabHosen2" target="blank"><img src="https://img.shields.io/twitter/follow/@maharab121?logo=twitter&style=for-the-badge" alt="@MaharabHosen2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@maharabhosen2" target="blank"><img src="https://img.shields.io/twitter/follow/@maharabhosen2?logo=twitter&style=for-the-badge" alt="@maharabhosen2" /></a> </p>
 
 - 🌱 I’m currently learning **BSC IN CSE**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@maharab121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maharab121" height="30" width="40" /></a>
+<a href="https://twitter.com/@maharabhosen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maharabhosen2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maharab-hosen-26aa33229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maharab-hosen-26aa33229/" height="30" width="40" /></a>
 <a href="https://fb.com/maharab.hosen.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maharab.hosen.14" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/maharab123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharab123" height="30" width="40" /></a>
