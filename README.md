@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@maharabhosen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maharabhosen2" height="30" width="40" /></a>
+<a href="https://twitter.com/@maharabhosen2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maharabhosen2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-maharab-hosen-679a70253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maharab-hosen-26aa33229/" height="30" width="40" /></a>
-<a href="https://fb.com/maharab.hosen.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maharab.hosen.14" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/maharab123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharab123" height="30" width="40" /></a>
+<a href="https://fb.com/maharab.hosen.14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maharab.hosen.14" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/maharab123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharab123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
