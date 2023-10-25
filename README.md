@@ -59,6 +59,8 @@
     
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=maharab2134&show_icons=true&locale=en&layout=compact" alt="maharab2134">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maharab2134&show_icons=true&locale=en" alt="maharab2134" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maharab2134&" alt="maharab2134" /></p>
+
 </div>
 <hr/>
 
