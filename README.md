@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, C++, JS, DART & FLUTTER**<br/>
 
-- 📫 How to reach me **maharabhosen365@gmail.com**<br/>
+- 📫 How to reach me **maharab442@gmail.com**<br/>
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
