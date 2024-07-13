@@ -13,7 +13,7 @@
 
 - I'm looking to Codeforces, Hackerrank or Leetcode on [Problem Solving in C, C++]<br/>
 
-- 💬 Ask me about **C, C++, JS, DART & FLUTTER**<br/>
+- 💬 Ask me about Programing Language** C, C++, Java, DART **<br/>
 
 - 📫 How to reach me **maharab442@gmail.com**<br/>
 
