@@ -1,12 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Maharab2134.Maharab2134" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5550&lines=Hi+There!+👋;+I'm+Md+Maharab+Hosen;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5550&lines=Hi+There!+👋;+I'm+Md+Maharab+hosen;" />
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br/>
 
 <div align="center">
-<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="center" alt="Coding"width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I'm currently pursuing a **Bachelor of Science in Computer Science and Engineering** <br/>
 
