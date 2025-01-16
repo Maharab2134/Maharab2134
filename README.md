@@ -46,7 +46,6 @@
 <div  align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![snake_gif](https://github.com/Maharab2134/Maharab2134/blob/output/github-snake-dark.svg)  
   <br/><br/><br/>
 </div>
 
@@ -67,3 +66,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+I'm+always+ready+progruming+contest:">
 </h3>
 <br/>
+
+ ![snake_gif](https://github.com/Maharab2134/Maharab2134/blob/output/github-snake-dark.svg)  
+
