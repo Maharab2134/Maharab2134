@@ -45,6 +45,8 @@
 
 <div  align="center">
   <h2>🐍 My Contributions 🐍</h2>
+     ![snake_gif](https://github.com/Maharab2134/Maharab2134/blob/output/github-snake-dark.svg)  
+
   <br>
   <br/><br/><br/>
 </div>
@@ -67,5 +69,4 @@
 </h3>
 <br/>
 
- ![snake_gif](https://github.com/Maharab2134/Maharab2134/blob/output/github-snake-dark.svg)  
 
